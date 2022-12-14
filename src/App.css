@@ -1,0 +1,22 @@
+.container{
+  display: inline-block;
+  margin: 15px;
+  box-sizing: border-box;
+  margin-left: 60px;
+}
+.color-card{
+  box-shadow: 3px 3px 3px 3px grey;
+  width: 120px;
+  margin-right: 70px;
+  height: 180px;
+}
+.color{
+  width: 120px;
+  height: 120px;
+}
+.name{
+  margin-left: 15px;
+}
+.pink{
+  font-size: 12px;
+}
